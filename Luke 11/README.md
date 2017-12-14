@@ -1,4 +1,4 @@
-** Luke 11
+**Luke 11**
 
 Et MIRPTALL er et primtall som fortsatt er primtall når sifrene reverseres, uten at de er palindromer. (Et palindrom er et ord eller tall som gir samme resultat enten det leses fra høyre eller venstre).
 

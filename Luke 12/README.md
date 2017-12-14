@@ -1,4 +1,4 @@
-** Luke 12
+**Luke 12**
 
 Tenk deg et rutenett med 10x10 ruter, hvor hver rute kan være sort eller hvit. Koordinatene telles fra 0, så vi har koordinater 0-9 langs X og Y-aksene. Alle rutene har et nummer, som er definert som X10+Y*. Så rute (5,7) har nummer 57, og rute (9,9) har nummer 99.
 
