@@ -1,3 +1,5 @@
+**Luke 05**
+
 Vi beskriver en tallrekke på følgende måte:
 
 - Rekken inneholder positive heltall.

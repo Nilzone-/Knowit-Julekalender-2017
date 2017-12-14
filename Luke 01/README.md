@@ -1,4 +1,4 @@
-##Oppgave 1
+**Oppgave 1**
 
 Bigram og trigram er eksempler på to spesifikke n-gram, med henholdvis n=2 og n=3.
 

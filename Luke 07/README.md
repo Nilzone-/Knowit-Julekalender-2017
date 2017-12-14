@@ -1,4 +1,4 @@
-** Luke 07
+**Luke 07**
 
 ROT-13 er et substitusjonschiffer hvor hver bokstav byttes ut med bokstaven som kommer 13 plasser etter den. A blir N, B blir O, C blir P osv. Når man teller forbi siste bokstav i alfabetet (vi ser her bort i fra ÆØÅ) fortsetter man fra starten igjen, W blir for eksempel J.
 

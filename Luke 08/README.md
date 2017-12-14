@@ -1,4 +1,4 @@
-** Luke 08
+**Luke 08**
 
 Vi definerer en sekvens som følger. Gitt et tall ni så er ni+1 lik summen av kvadratene av sifrene i ni. Vi sier at et tall n0 er et juletall hvis og bare hvis tallet 1 er i sekvensen.
 

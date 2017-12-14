@@ -1,3 +1,5 @@
+**Luke 02**
+
 Julenissens hjelpere jobber med å lage en funksjon for å generere labyrinter. Generatoren fungerer ved å putte inn x og y koordinatene til hver celle og den forteller deg om det skal settes opp en vegg eller ikke.
 
 De laget følgene generator:
